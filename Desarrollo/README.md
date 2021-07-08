@@ -1,8 +1,5 @@
-##Enunciado de la prueba
-Se encuentra en el directorio /fullstack-challenge del directorio raiz de la aplicación
-
 ## Levantar la aplicacion
-En el directorio raiz de la aplicación
+En el directorio raiz del desarrollo
 
 - docker-compose up
 - docker-compose run --rm app cp .env.dev .env

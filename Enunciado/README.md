@@ -1,4 +1,4 @@
-# Finizens' FullStack Challenge
+# FullStack Challenge
 
 ## Instructions
 
@@ -18,7 +18,7 @@
 
 ## Backend
 
-As a robo-advisor in Finizens we manage client's investment portfolios. 
+As a robo-advisor we manage client's investment portfolios. 
 In order to do this, a Customer contracts new portfolios and will trade allocations
 on these portfolios.
 
